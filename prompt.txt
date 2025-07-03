@@ -1,0 +1,11 @@
+"Create a simple dark-themed webpage for a 'Niche Saturation Tool.' The page should have:
+
+A title at the top: 'Niche Saturation Tool'
+
+An input box labeled 'Enter your niche'
+
+A submit button that says 'Get Saturation Score'
+
+A section below the button to display results like 'Saturation Score', 'Market Potential', and 'Competition Level'
+
+A dark background with white text and a green button."
